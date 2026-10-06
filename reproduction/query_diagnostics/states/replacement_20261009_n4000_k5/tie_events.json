@@ -1,0 +1,74 @@
+[
+  {
+    "backend": "value",
+    "query": 389,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        3769
+      ],
+      [
+        4,
+        3769
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 407,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        15684
+      ],
+      [
+        1,
+        15684
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 389,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        3769
+      ],
+      [
+        4,
+        3769
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 407,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        15684
+      ],
+      [
+        1,
+        15684
+      ]
+    ]
+  }
+]

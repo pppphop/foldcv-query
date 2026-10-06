@@ -1,0 +1,106 @@
+{
+  "label": "main_rf",
+  "n": 65535,
+  "k": 5,
+  "queries": 512,
+  "within_fold_repeated_source_slots": 1787,
+  "within_fold_repeated_residual_slots": 1945,
+  "backends": [
+    {
+      "backend": "value",
+      "fallbacks": 29,
+      "secondary_sort_fallbacks": 29,
+      "reason_counts": {
+        "fast": 995,
+        "lower_crossing_tie": 29
+      },
+      "endpoint_difference": {
+        "max_finite_difference": 0.0,
+        "nonfinite_disagreements": 0
+      },
+      "tails": [
+        {
+          "tail": "lower",
+          "all_iterations": {
+            "p50": 18.0,
+            "p95": 19.0,
+            "max": 20.0
+          },
+          "fast_iterations": {
+            "p50": 18.0,
+            "p95": 19.0,
+            "max": 20.0
+          },
+          "fallback_iterations": {
+            "p50": 18.0,
+            "p95": 19.0,
+            "max": 19.0
+          }
+        },
+        {
+          "tail": "upper",
+          "all_iterations": {
+            "p50": 18.0,
+            "p95": 19.0,
+            "max": 20.0
+          },
+          "fast_iterations": {
+            "p50": 18.0,
+            "p95": 19.0,
+            "max": 20.0
+          },
+          "fallback_iterations": null
+        }
+      ]
+    },
+    {
+      "backend": "rank",
+      "fallbacks": 29,
+      "secondary_sort_fallbacks": 29,
+      "reason_counts": {
+        "fast": 995,
+        "lower_crossing_tie": 29
+      },
+      "endpoint_difference": {
+        "max_finite_difference": 0.0,
+        "nonfinite_disagreements": 0
+      },
+      "tails": [
+        {
+          "tail": "lower",
+          "all_iterations": {
+            "p50": 15.0,
+            "p95": 17.0,
+            "max": 18.0
+          },
+          "fast_iterations": {
+            "p50": 15.0,
+            "p95": 17.0,
+            "max": 18.0
+          },
+          "fallback_iterations": {
+            "p50": 14.0,
+            "p95": 16.0,
+            "max": 16.0
+          }
+        },
+        {
+          "tail": "upper",
+          "all_iterations": {
+            "p50": 15.0,
+            "p95": 17.0,
+            "max": 18.0
+          },
+          "fast_iterations": {
+            "p50": 15.0,
+            "p95": 17.0,
+            "max": 18.0
+          },
+          "fallback_iterations": null
+        }
+      ]
+    }
+  ],
+  "tie_events": 58,
+  "tie_events_all_same_id_same_fold": false
+}

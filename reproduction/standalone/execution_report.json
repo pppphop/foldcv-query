@@ -1,0 +1,46 @@
+{
+  "relocated_directory": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\tmp\\independent_foldcv_v13",
+  "fresh_environment": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\tmp\\independent_foldcv_v13\\.venv",
+  "environment_configuration": {
+    "cases": [
+      "rf",
+      "ridge",
+      "housing_rf",
+      "housing_ridge",
+      "bike_rf",
+      "bike_ridge"
+    ],
+    "queries": [
+      32,
+      512
+    ],
+    "repetitions": 3,
+    "python": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\tmp\\independent_foldcv_v13\\.venv\\Scripts\\python.exe",
+    "python_version": "3.12.14",
+    "numpy": "2.5.3",
+    "software_version": "0.2.3",
+    "package_path": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\tmp\\independent_foldcv_v13\\software\\src\\foldcv_query\\__init__.py",
+    "working_directory": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\tmp\\independent_foldcv_v13",
+    "entrypoint": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\tmp\\independent_foldcv_v13\\run.py",
+    "fitting_included": false,
+    "cfcausal_commit": "e4ca6706599873505e1cce2d8cf0078ceff5d2e6",
+    "FavMac_commit": "0130e63b86ac0092b4359bb9993113b4956c87ea",
+    "scope": "saved-state endpoint comparison; dynamic factors extend the tree adapter, not original cfcausal"
+  },
+  "endpoint_cases_completed": 12,
+  "original_author_sources_unmodified": true,
+  "compiler": "C:/Tools/WinLibs-LLVM-12.0.0/mingw64/bin/g++.exe",
+  "rscript": "E:\\pp\\\u5317\u822a\\\u5b66\u4e60\\\u79d1\u7814\\\u8bfe\u9898\u7ec4\\Driftmem\\.tools\\R-local\\runtime\\bin\\Rscript.exe",
+  "full_application_trajectory_completed": true,
+  "application_queries": 920250,
+  "application_complete_seconds": 119.7344783,
+  "existing_software_max_finite_difference": 5.329070518200751e-15,
+  "dynamic_factor_max_finite_difference": 0.0,
+  "relocated_application_max_endpoint_difference": 0.0,
+  "relocated_application_nonfinite_disagreements": 0,
+  "relocated_application_selected_id_disagreements": 0,
+  "all_nine_application_jobs_rerun_after_relocation": false,
+  "same_physical_host": true,
+  "new_data_replicates": 0,
+  "scope": "all twelve saved-state cases and one complete refitted batch application; no independent-machine performance claim"
+}

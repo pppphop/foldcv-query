@@ -1,0 +1,4 @@
+{
+  "table8": "| Configuration | V iterations | R iterations | V and R fallbacks / 1024 |\n|---|---:|---:|---:|\n| SGEMM/RF | 18/19/20 | 15/17/18 | 29 |\n| SGEMM/Ridge | 17/18/20 | 15/17/18 | 49 |\n| Housing/RF | 16/17/19 | 13/15/16 | 75 |\n| Housing/Ridge | 15/17/19 | 13/15/16 | 78 |\n| Bike/RF | 15/16/18 | 13/15/16 | 99 |\n| Bike/Ridge | 14/16/17 | 13/15/16 | 132 |",
+  "table9": "| Residual distribution | V iterations | R iterations | V / R fallbacks | F / V / R (ms) |\n|---|---:|---:|---:|---:|\n| Raw exponential | 15/16/17 | 14/15/16 | 0 / 0 | 136.49 / 2.49 / 3.58 |\n| Raw Pareto | 30/31/32 | 14/15/16 | 0 / 0 | 134.28 / 2.09 / 2.41 |\n| Narrow cluster | 15/17/19 | 13/15/15 | 3 / 3 | 122.28 / 8.70 / 9.23 |\n| Wide ladder | 80/80/80 | 13/14/14 | 256 / 4 | 122.33 / 198.04 / 11.40 |"
+}

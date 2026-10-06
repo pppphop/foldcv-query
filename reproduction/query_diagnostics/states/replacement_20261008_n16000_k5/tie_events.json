@@ -1,0 +1,1310 @@
+[
+  {
+    "backend": "value",
+    "query": 18,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 31,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 42,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 46,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 47,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 56,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        19107
+      ],
+      [
+        0,
+        19107
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 81,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 115,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        14837
+      ],
+      [
+        0,
+        14837
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 124,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        18601
+      ],
+      [
+        3,
+        18601
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 128,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 177,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 188,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        2,
+        3048
+      ],
+      [
+        2,
+        3048
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 199,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 214,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 221,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 228,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 236,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 255,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        17214
+      ],
+      [
+        3,
+        17214
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 282,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 290,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 295,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 340,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 351,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        19595
+      ],
+      [
+        0,
+        19595
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 357,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 358,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 4,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        17889
+      ],
+      [
+        3,
+        17889
+      ],
+      [
+        3,
+        17889
+      ],
+      [
+        3,
+        17889
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 360,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 370,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 410,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 434,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 464,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 472,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        18601
+      ],
+      [
+        3,
+        18601
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 479,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        19595
+      ],
+      [
+        0,
+        19595
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 493,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 506,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "value",
+    "query": 508,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 18,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 31,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 42,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 46,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 47,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 56,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        19107
+      ],
+      [
+        0,
+        19107
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 81,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 115,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        14837
+      ],
+      [
+        0,
+        14837
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 124,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        18601
+      ],
+      [
+        3,
+        18601
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 128,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 177,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 188,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        2,
+        3048
+      ],
+      [
+        2,
+        3048
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 199,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 214,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 221,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 228,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 236,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 255,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        17214
+      ],
+      [
+        3,
+        17214
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 282,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 290,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 295,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 340,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 351,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        19595
+      ],
+      [
+        0,
+        19595
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 357,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 358,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 4,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        17889
+      ],
+      [
+        3,
+        17889
+      ],
+      [
+        3,
+        17889
+      ],
+      [
+        3,
+        17889
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 360,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 370,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        18728
+      ],
+      [
+        0,
+        18728
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 410,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 434,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 464,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 472,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        3,
+        18601
+      ],
+      [
+        3,
+        18601
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 479,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        0,
+        19595
+      ],
+      [
+        0,
+        19595
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 493,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        1,
+        5106
+      ],
+      [
+        1,
+        5106
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 506,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 3,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ],
+      [
+        4,
+        2652
+      ]
+    ]
+  },
+  {
+    "backend": "rank",
+    "query": 508,
+    "tail": 0,
+    "reason": "lower_crossing_tie",
+    "multiplicity": 2,
+    "same_id_same_fold": true,
+    "source_pairs": [
+      [
+        4,
+        14350
+      ],
+      [
+        4,
+        14350
+      ]
+    ]
+  }
+]

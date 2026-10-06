@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=78"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foldcv-query"
+version = "0.2.3"
+license = "GPL-2.0-only"
+license-files = ["LICENSE"]
+authors = [{name = "Haopeng Zhang", email = "24373469@buaa.edu.cn"}]
+description = "Indexed weighted CV+ queries with value and rank backends"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["numpy>=2.3.5,<3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+foldcv_query = ["weighted.dll", "weighted.so", "weighted.cpp"]
+
+[project.optional-dependencies]
+fit = ["scikit-learn>=1.7,<2"]

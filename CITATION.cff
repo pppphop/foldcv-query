@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this software when reusing it."
+title: "FoldCV-Query: Indexed Weighted CV+ Queries"
+type: software
+version: 0.2.3
+date-released: 2026-10-06
+authors:
+  - family-names: Zhang
+    given-names: Haopeng
+    affiliation: School of Computer Science and Engineering, Beihang University
+repository-code: "https://github.com/pppphop/foldcv-query"
+url: "https://github.com/pppphop/foldcv-query/releases/tag/v0.2.3"
+license: GPL-2.0-only

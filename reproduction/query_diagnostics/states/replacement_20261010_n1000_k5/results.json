@@ -1,0 +1,96 @@
+{
+  "label": "replacement_20261010_n1000_k5",
+  "n": 1000,
+  "k": 5,
+  "queries": 512,
+  "within_fold_repeated_source_slots": 2,
+  "within_fold_repeated_residual_slots": 2,
+  "backends": [
+    {
+      "backend": "value",
+      "fallbacks": 0,
+      "secondary_sort_fallbacks": 0,
+      "reason_counts": {
+        "fast": 1024
+      },
+      "endpoint_difference": {
+        "max_finite_difference": 0.0,
+        "nonfinite_disagreements": 0
+      },
+      "tails": [
+        {
+          "tail": "lower",
+          "all_iterations": {
+            "p50": 11.0,
+            "p95": 12.0,
+            "max": 13.0
+          },
+          "fast_iterations": {
+            "p50": 11.0,
+            "p95": 12.0,
+            "max": 13.0
+          },
+          "fallback_iterations": null
+        },
+        {
+          "tail": "upper",
+          "all_iterations": {
+            "p50": 11.0,
+            "p95": 13.0,
+            "max": 14.0
+          },
+          "fast_iterations": {
+            "p50": 11.0,
+            "p95": 13.0,
+            "max": 14.0
+          },
+          "fallback_iterations": null
+        }
+      ]
+    },
+    {
+      "backend": "rank",
+      "fallbacks": 0,
+      "secondary_sort_fallbacks": 0,
+      "reason_counts": {
+        "fast": 1024
+      },
+      "endpoint_difference": {
+        "max_finite_difference": 0.0,
+        "nonfinite_disagreements": 0
+      },
+      "tails": [
+        {
+          "tail": "lower",
+          "all_iterations": {
+            "p50": 10.0,
+            "p95": 11.0,
+            "max": 12.0
+          },
+          "fast_iterations": {
+            "p50": 10.0,
+            "p95": 11.0,
+            "max": 12.0
+          },
+          "fallback_iterations": null
+        },
+        {
+          "tail": "upper",
+          "all_iterations": {
+            "p50": 9.0,
+            "p95": 11.0,
+            "max": 12.0
+          },
+          "fast_iterations": {
+            "p50": 9.0,
+            "p95": 11.0,
+            "max": 12.0
+          },
+          "fallback_iterations": null
+        }
+      ]
+    }
+  ],
+  "tie_events": 0,
+  "tie_events_all_same_id_same_fold": null
+}

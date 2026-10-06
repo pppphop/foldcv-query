@@ -1,0 +1,146 @@
+[
+  {
+    "case": "raw_exponential",
+    "query_rows": 128,
+    "tails": 256,
+    "raw_query_ns": {
+      "flat_batch": [
+        138066000,
+        135668900,
+        136491800
+      ],
+      "value": [
+        4690900,
+        2396300,
+        2490600
+      ],
+      "rank": [
+        4257500,
+        3425800,
+        3576600
+      ]
+    },
+    "median_query_ms": {
+      "flat_batch": 136.4918,
+      "value": 2.4906,
+      "rank": 3.5766
+    },
+    "fallbacks": {
+      "flat_batch": 0,
+      "value": 0,
+      "rank": 0
+    },
+    "matched_endpoints": true,
+    "fitting_included": false,
+    "preparation_included": false,
+    "instrumented_library_used": false
+  },
+  {
+    "case": "raw_pareto",
+    "query_rows": 128,
+    "tails": 256,
+    "raw_query_ns": {
+      "flat_batch": [
+        134275600,
+        135997100,
+        133923800
+      ],
+      "value": [
+        2974900,
+        2090600,
+        1898400
+      ],
+      "rank": [
+        2565900,
+        2414200,
+        2331400
+      ]
+    },
+    "median_query_ms": {
+      "flat_batch": 134.2756,
+      "value": 2.0906,
+      "rank": 2.4142
+    },
+    "fallbacks": {
+      "flat_batch": 0,
+      "value": 0,
+      "rank": 0
+    },
+    "matched_endpoints": true,
+    "fitting_included": false,
+    "preparation_included": false,
+    "instrumented_library_used": false
+  },
+  {
+    "case": "narrow_cluster",
+    "query_rows": 128,
+    "tails": 256,
+    "raw_query_ns": {
+      "flat_batch": [
+        122283600,
+        126132900,
+        120426300
+      ],
+      "value": [
+        7571100,
+        8925800,
+        8700000
+      ],
+      "rank": [
+        10092500,
+        8124500,
+        9233600
+      ]
+    },
+    "median_query_ms": {
+      "flat_batch": 122.2836,
+      "value": 8.7,
+      "rank": 9.2336
+    },
+    "fallbacks": {
+      "flat_batch": 3,
+      "value": 3,
+      "rank": 3
+    },
+    "matched_endpoints": true,
+    "fitting_included": false,
+    "preparation_included": false,
+    "instrumented_library_used": false
+  },
+  {
+    "case": "wide_ladder",
+    "query_rows": 128,
+    "tails": 256,
+    "raw_query_ns": {
+      "flat_batch": [
+        122463200,
+        119663700,
+        122333900
+      ],
+      "value": [
+        199091900,
+        198036600,
+        197732900
+      ],
+      "rank": [
+        11581400,
+        10590400,
+        11396500
+      ]
+    },
+    "median_query_ms": {
+      "flat_batch": 122.3339,
+      "value": 198.0366,
+      "rank": 11.3965
+    },
+    "fallbacks": {
+      "flat_batch": 4,
+      "value": 256,
+      "rank": 4
+    },
+    "matched_endpoints": true,
+    "fitting_included": false,
+    "preparation_included": false,
+    "instrumented_library_used": false
+  }
+]

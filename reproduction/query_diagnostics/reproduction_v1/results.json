@@ -1,0 +1,948 @@
+[
+  {
+    "case": "main_bike_rf",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 99,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 99,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "main_bike_ridge",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 132,
+        "maximum_iterations": 17,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 132,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "main_housing_rf",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 75,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 75,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "main_housing_ridge",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 78,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 78,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "main_rf",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 29,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 29,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "main_ridge",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 49,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 49,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n1000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 12,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n16000_k10",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 45,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 45,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n16000_k2",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 149,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 149,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n16000_k20",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 17,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n16000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 35,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 35,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n200_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 11,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 9,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261008_n4000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 14,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n1000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 15,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 12,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n16000_k10",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 15,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 15,
+        "maximum_iterations": 22,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n16000_k2",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 181,
+        "maximum_iterations": 21,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 181,
+        "maximum_iterations": 17,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n16000_k20",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 3,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 3,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n16000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 84,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 84,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n200_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 12,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 9,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261009_n4000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 2,
+        "maximum_iterations": 17,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 2,
+        "maximum_iterations": 14,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n1000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 14,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 12,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n16000_k10",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 52,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 52,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n16000_k2",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 186,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 186,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n16000_k20",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n16000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 98,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 98,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n200_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 11,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 10,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "replacement_20261010_n4000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 9,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 9,
+        "maximum_iterations": 14,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "synthetic_narrow_cluster",
+    "queries": 128,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 3,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 3,
+        "maximum_iterations": 15,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "synthetic_raw_exponential",
+    "queries": 128,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 17,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "synthetic_raw_pareto",
+    "queries": 128,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 32,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "synthetic_wide_ladder",
+    "queries": 128,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 256,
+        "maximum_iterations": 80,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 4,
+        "maximum_iterations": 14,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261008_n16000_k10",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261008_n16000_k2",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261008_n16000_k20",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 17,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261008_n16000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 18,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261009_n16000_k10",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261009_n16000_k2",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261009_n16000_k20",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261009_n16000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261010_n16000_k10",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 19,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261010_n16000_k2",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 22,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261010_n16000_k20",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 21,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  },
+  {
+    "case": "unique_20261010_n16000_k5",
+    "queries": 512,
+    "backends": [
+      {
+        "backend": "value",
+        "fallbacks": 0,
+        "maximum_iterations": 20,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      },
+      {
+        "backend": "rank",
+        "fallbacks": 0,
+        "maximum_iterations": 16,
+        "reproduced_endpoints": true,
+        "reproduced_iterations": true,
+        "reproduced_reasons": true
+      }
+    ]
+  }
+]

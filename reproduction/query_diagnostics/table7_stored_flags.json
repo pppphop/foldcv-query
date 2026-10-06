@@ -1,0 +1,158 @@
+[
+  {
+    "case": "rf",
+    "q": 512,
+    "extra": {
+      "numpy_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "native_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "numpy_prefix": {
+        "fallbacks": 0,
+        "max_iterations": 20
+      },
+      "author_tree": {
+        "fallbacks": 0,
+        "max_iterations": 20
+      },
+      "public_value": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      }
+    }
+  },
+  {
+    "case": "ridge",
+    "q": 512,
+    "extra": {
+      "numpy_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "native_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "numpy_prefix": {
+        "fallbacks": 0,
+        "max_iterations": 19
+      },
+      "author_tree": {
+        "fallbacks": 0,
+        "max_iterations": 19
+      },
+      "public_value": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      }
+    }
+  },
+  {
+    "case": "housing_rf",
+    "q": 512,
+    "extra": {
+      "numpy_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "native_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "numpy_prefix": {
+        "fallbacks": 0,
+        "max_iterations": 18
+      },
+      "author_tree": {
+        "fallbacks": 0,
+        "max_iterations": 18
+      },
+      "public_value": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      }
+    }
+  },
+  {
+    "case": "housing_ridge",
+    "q": 512,
+    "extra": {
+      "numpy_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "native_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "numpy_prefix": {
+        "fallbacks": 0,
+        "max_iterations": 17
+      },
+      "author_tree": {
+        "fallbacks": 0,
+        "max_iterations": 17
+      },
+      "public_value": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      }
+    }
+  },
+  {
+    "case": "bike_rf",
+    "q": 512,
+    "extra": {
+      "numpy_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "native_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "numpy_prefix": {
+        "fallbacks": 0,
+        "max_iterations": 16
+      },
+      "author_tree": {
+        "fallbacks": 0,
+        "max_iterations": 16
+      },
+      "public_value": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      }
+    }
+  },
+  {
+    "case": "bike_ridge",
+    "q": 512,
+    "extra": {
+      "numpy_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "native_flat": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      },
+      "numpy_prefix": {
+        "fallbacks": 0,
+        "max_iterations": 16
+      },
+      "author_tree": {
+        "fallbacks": 0,
+        "max_iterations": 16
+      },
+      "public_value": {
+        "fallbacks": 0,
+        "max_iterations": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "states": 43,
+  "queries_per_backend": 20480,
+  "endpoint_iterations_and_reasons_reproduced": true,
+  "same_host": true,
+  "same_numeric_inputs": true,
+  "new_data_draws": 0,
+  "new_model_fits": 0,
+  "entrypoint": "replay_saved.py",
+  "local_source_build": true
+}

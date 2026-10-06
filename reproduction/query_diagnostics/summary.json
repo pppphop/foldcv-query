@@ -1,0 +1,87 @@
+{
+  "states": 43,
+  "traced_endpoints_per_backend": 40960,
+  "groups": {
+    "main": {
+      "states": 6,
+      "endpoints_per_backend": 6144,
+      "backends": {
+        "value": {
+          "fallbacks": 462,
+          "reasons": {
+            "fast": 5682,
+            "lower_crossing_tie": 462
+          }
+        },
+        "rank": {
+          "fallbacks": 462,
+          "reasons": {
+            "fast": 5682,
+            "lower_crossing_tie": 462
+          }
+        }
+      }
+    },
+    "replacement": {
+      "states": 21,
+      "endpoints_per_backend": 21504,
+      "backends": {
+        "value": {
+          "fallbacks": 859,
+          "reasons": {
+            "fast": 20645,
+            "lower_crossing_tie": 859
+          }
+        },
+        "rank": {
+          "fallbacks": 859,
+          "reasons": {
+            "fast": 20645,
+            "lower_crossing_tie": 859
+          }
+        }
+      }
+    },
+    "unique": {
+      "states": 12,
+      "endpoints_per_backend": 12288,
+      "backends": {
+        "value": {
+          "fallbacks": 0,
+          "reasons": {
+            "fast": 12288
+          }
+        },
+        "rank": {
+          "fallbacks": 0,
+          "reasons": {
+            "fast": 12288
+          }
+        }
+      }
+    },
+    "synthetic": {
+      "states": 4,
+      "endpoints_per_backend": 1024,
+      "backends": {
+        "value": {
+          "fallbacks": 259,
+          "reasons": {
+            "fast": 765,
+            "lower_crossing_tie": 3,
+            "iteration_cap": 256
+          }
+        },
+        "rank": {
+          "fallbacks": 7,
+          "reasons": {
+            "fast": 1017,
+            "lower_crossing_tie": 7
+          }
+        }
+      }
+    }
+  },
+  "max_finite_endpoint_difference": 0.0,
+  "nonfinite_disagreements": 0
+}
